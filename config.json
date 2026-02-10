@@ -1,4 +1,18 @@
 {
   "logo" : "none"
   "showSidebar": true
+
+    "nav": {
+    "logo": "logo.jpeg",
+    "title": "My Digital Garden",
+    "links": [
+      {
+        "href": "/blog",
+        "name": "Blog"
+      },
+      {
+        "href": "/about",
+        "name": "About"
+      }
+
 }
