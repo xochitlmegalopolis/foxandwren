@@ -1,8 +1,7 @@
 {
   "branding": false,
-  "showSidebar": true
-
-    "nav": {
+  "showSidebar": true,
+  "nav": {
     "logo": "",
     "title": "My Digital Garden"
     }
