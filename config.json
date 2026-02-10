@@ -1,11 +1,10 @@
 {
   "branding": false,
   "showSidebar": true,
-  "toc": false,
+  "showToc": false,
   "nav": {
     "logo": "",
     "title": "Fox and Wren Poetry"
-    },
-  "page": { "toc": false }
+    }
 
 }
