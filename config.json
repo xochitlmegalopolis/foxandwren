@@ -1,5 +1,5 @@
 {
-  "logo" : "none"
+  "branding": false
   "showSidebar": true
 
     "nav": {
