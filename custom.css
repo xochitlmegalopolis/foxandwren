@@ -1,3 +1,5 @@
+html { outline: 10px solid magenta !important; }
+
 .bg-background {
   background: #eee6d8ff !important;
 }
