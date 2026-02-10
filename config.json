@@ -4,6 +4,7 @@
   "nav": {
     "logo": "",
     "title": "Fox and Wren Poetry"
-    }
+    },
+  "page": { "toc": false }
 
 }
