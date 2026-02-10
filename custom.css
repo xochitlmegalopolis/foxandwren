@@ -1,3 +1,8 @@
 :root {
   --background: #eee6d8ff;
 }
+
+
+.bg-background {
+  background-color: var(--background);
+}
