@@ -28,9 +28,9 @@ akin to a billion
 of his fuzzy fellows.
 
 Oh hear and see that inside
-this belfry eroded--
+this belfry eroded---
 ivy-coated 
-abd fungi-loaded--
+abd fungi-loaded---
 there abides a bee 
 in the bell, 
 and all across 
