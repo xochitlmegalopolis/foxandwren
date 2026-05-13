@@ -1,6 +1,7 @@
 ---
 title: "Fox and Wren Poetry" 
-
+showSidebar: false
+showToc: false
 ---
 
 <div class="home-logo-wrap">
