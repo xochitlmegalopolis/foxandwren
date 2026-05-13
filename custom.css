@@ -2,10 +2,10 @@ body {
   background-color: #f6f3eeff;
 }
 
-/* Make the hero background image fit instead of crop */
+/* Smaller logo inside hero, with visual margin */
 section[style*="logo-small"],
 div[style*="logo-small"] {
-  background-size: contain !important;
+  background-size: 75% auto !important;
   background-repeat: no-repeat !important;
   background-position: center center !important;
 }
