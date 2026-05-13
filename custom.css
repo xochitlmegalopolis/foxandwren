@@ -2,10 +2,11 @@ body {
   background-color: #f6f3eeff;
 }
 
-/* Smaller logo inside hero, with visual margin */
 section[style*="logo-small"],
 div[style*="logo-small"] {
-  background-size: 75% auto !important;
+  background-image: url("/assets/logo-small.png") !important;
+  background-color: transparent !important;
   background-repeat: no-repeat !important;
   background-position: center center !important;
+  background-size: 70% auto !important;
 }
