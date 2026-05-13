@@ -3,6 +3,7 @@ title: "Fox and Wren Poetry"
 description: ""
 showSidebar: false
 showToc: false
+showTitle: false
 ---
 
 <div class="home-logo-wrap">
