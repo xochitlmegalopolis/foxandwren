@@ -6,4 +6,6 @@ body {
   background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
+  background-origin: content-box !important;
+  box-sizing: border-box !important;
 }
