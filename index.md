@@ -16,7 +16,9 @@ showTitle: false
 
 The Bee in the Bell
 
-*by The Fox*<br />
+*by The Fox*
+
+<br />
 
 Wherein the bell of  
 
@@ -34,7 +36,9 @@ he makes a song
 
 akin to a billion  
 
-of his fuzzy fellows.<br />
+of his fuzzy fellows.
+
+<br />
 
 Oh hear and see that inside 
 
