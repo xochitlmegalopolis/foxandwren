@@ -14,11 +14,29 @@ showTitle: false
 
 --- 
 
-# The Bonsai Fox 
+The Bee in the Bell
+*by The Fox*
 
-### Another 
+Wherein the bell of
+bronze
+buzzes a bee who has 
+tarried long; 
+and within this 
+cavern metal,
+he makes a song 
+akin to a billion 
+of his fuzzy fellows.
 
-### A third 
+Oh hear and see that inside
+this belfry eroded--
+ivy-coated 
+abd fungi-loaded--
+there abides a bee 
+in the bell, 
+and all across 
+the country, 
+is heard the 
+humming swell. 
 
 ---
 </div>
