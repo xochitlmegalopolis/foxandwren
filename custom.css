@@ -2,11 +2,7 @@ body {
   background-color: #f6f3eeff;
 }
 
-section[style*="logo-small"],
-div[style*="logo-small"] {
-  background-image: url("/assets/logo-small.png") !important;
-  background-color: transparent !important;
-  background-repeat: no-repeat !important;
-  background-position: center center !important;
-  background-size: 70% auto !important;
+/* Hide the automatic page title at the top of the page */
+main h1:first-of-type {
+  display: none !important;
 }
