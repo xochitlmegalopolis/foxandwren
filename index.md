@@ -24,8 +24,3 @@ showTitle: false
 </div>
 
 
-<summary> 
-  Another
-  Another
-  Another
-</summary>
