@@ -3,8 +3,6 @@ body {
 }
 
 [class*="hero"] {
-  min-height: 360px !important;
-  height: auto !important;
   background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
