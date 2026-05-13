@@ -2,7 +2,6 @@ body {
   background-color: #f6f3eeff;
 }
 
-/* Hide the automatic page title at the top of the page */
-main h1:first-of-type {
+h1 {
   display: none !important;
 }
