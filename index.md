@@ -19,24 +19,41 @@ The Bee in the Bell
 *by The Fox*<br />
 
 Wherein the bell of  
+
 bronze  
+
 buzzes a bee who has  
+
 tarried long;  
+
 and within this  
-cavern metal,  
+
+cavern metal,
+
 he makes a song  
+
 akin to a billion  
+
 of his fuzzy fellows.<br />
 
-Oh hear and see that inside  
+Oh hear and see that inside 
+
 this belfry eroded---  
+
 ivy-coated  
+
 and fungi-loaded---  
-there abides a bee  
+
+there abides a bee 
+
 in the bell,  
+
 and all across  
+
 the country,  
-is heard the  
+
+is heard the 
+
 humming swell. 
 
 ---
