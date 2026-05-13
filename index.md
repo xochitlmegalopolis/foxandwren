@@ -12,13 +12,13 @@ showTitle: false
 <img class="home-logo" src="/assets/logo-small.png" alt="Logo" />
 
 --- 
-<h2> 
+
 ### The Bonsai Fox 
 
 ### Another 
 
 ### A third 
-</h2>
+
 ---
 
 
