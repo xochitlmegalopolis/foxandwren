@@ -2,9 +2,10 @@ body {
   background-color: #f6f3eeff;
 }
 
-/* Make background hero image smaller without cropping */
 [class*="hero"] {
-  background-size: 80% auto !important;
+  min-height: 360px !important;
+  height: auto !important;
+  background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
 }
