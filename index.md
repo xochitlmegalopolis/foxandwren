@@ -7,9 +7,10 @@ showToc: false
 showTitle: false
 ---
 
-<div class="home-logo-wrap">
-  <img src="/assets/logo-small.png" alt="Logo" />
-</div>
+<h1 class="home-title">Your Site Name</h1>
+
+<img class="home-logo" src="/assets/logo-small.png" alt="Logo" />
+
 
 ### The Bonsai Fox 
 
