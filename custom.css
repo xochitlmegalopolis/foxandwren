@@ -4,7 +4,7 @@ body {
 
 /* Make background hero image smaller without cropping */
 [class*="hero"] {
-  background-size: 85% auto !important;
+  background-size: 65% auto !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
 }
