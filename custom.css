@@ -2,7 +2,9 @@ body {
   background-color: #f6f3eeff;
 }
 
-[class*="hero"] {
+/* Make the hero background image fit instead of crop */
+section[style*="logo-small"],
+div[style*="logo-small"] {
   background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position: center center !important;
