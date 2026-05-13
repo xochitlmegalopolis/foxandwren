@@ -1,7 +1,7 @@
 ---
 showHero: true
 title: Fox and Wren Poetry 
-image: /assets/logo-small.jpg
+image: /assets/logo-small.png
 ---
 
 
