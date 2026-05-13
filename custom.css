@@ -3,8 +3,8 @@ body {
 }
 
 /* Make hero image fit instead of crop */
-[class*="hero"] img {
-  object-fit: contain !important;
-  max-width: 100% !important;
-  max-height: 100% !important;
+[class*="hero"] {
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
 }
