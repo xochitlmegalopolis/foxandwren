@@ -14,8 +14,8 @@ showTitle: false
 
 --- 
 
-The Bee in the Bell<br />  
-*by The Fox*
+The Bee in the Bell
+*by The Fox*<br />
 
 Wherein the bell of  
 bronze  
@@ -25,7 +25,7 @@ and within this
 cavern metal,  
 he makes a song  
 akin to a billion  
-of his fuzzy fellows.
+of his fuzzy fellows.<br />
 
 Oh hear and see that inside  
 this belfry eroded---  
