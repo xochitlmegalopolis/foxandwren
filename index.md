@@ -1,9 +1,10 @@
 ---
 showHero: true
 title: Fox and Wren Poetry 
-image: /assets/logo-small.png
 ---
-
+<div class="home-logo-wrap">
+  <img src="/assets/logo-small.png" alt="Logo" />
+</div>
 
 ### The Bonsai Fox 
 
