@@ -7,4 +7,5 @@ body {
   background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
+  padding: 2rem !important;
 }
