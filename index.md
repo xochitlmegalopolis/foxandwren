@@ -7,7 +7,7 @@ showToc: false
 showTitle: false
 ---
 
-<h1 class="home-title">Your Site Name</h1>
+<h1 class="home-title">Fox and Wren Poetry</h1>
 
 <img class="home-logo" src="/assets/logo-small.png" alt="Logo" />
 
