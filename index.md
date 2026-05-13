@@ -14,7 +14,7 @@ showTitle: false
 
 --- 
 
-The Bee in the Bell  
+The Bee in the Bell<br />  
 *by The Fox*
 
 Wherein the bell of  
