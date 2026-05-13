@@ -1,8 +1,9 @@
 @font-face {
   font-family: "Gembrot";
   src: url("https://raw.githubusercontent.com/xochitlmegalopolis/foxandwren/main/assets/GembrotFont.otf") format("opentype");
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 
 body {
