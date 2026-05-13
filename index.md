@@ -10,7 +10,7 @@ showTitle: false
 <h1 class="home-title">Fox and Wren Poetry</h1>
 
 <img class="home-logo" src="/assets/logo-small.png" alt="Logo" />
-
+<div class="mx-auto max-w-3xl px-6 py-10">
 --- 
 
 ### The Bonsai Fox 
@@ -20,5 +20,6 @@ showTitle: false
 ### A third 
 
 ---
+</div>
 
 
