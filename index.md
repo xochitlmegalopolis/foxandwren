@@ -61,6 +61,47 @@ is heard the
 humming swell. 
 
 ---
+
+The Hazelnut of Dreams
+
+A hazelnut floats upon a stream—
+
+bobbing with
+
+buoyancy, and
+
+rocking as it
+
+dreams.
+
+While the enwrapping
+
+water lapping,
+
+polishes
+
+its sheen, and shines
+
+the silky shell,
+
+to a russet-golden gleam.
+
+Though it wonders
+
+where it goes
+
+(and brings wisdom
+
+where it wanders),
+
+its most sonorous secrets are those
+
+that only a hazelnut
+
+knows.
+
+---
+
 </div>
 
 
