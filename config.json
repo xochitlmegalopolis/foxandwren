@@ -1,6 +1,6 @@
 {
   "branding": false,
   "showSidebar": true,
-  "showToc": false,
-  "showNav": false
+  "showToc": true,
+  "showNav": true
 }
