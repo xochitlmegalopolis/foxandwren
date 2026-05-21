@@ -1,9 +1,6 @@
 ---
 title: "Fox and Wren Poetry" 
-description: ""
-layout: plain
-showSidebar: false
-showToc: false
+showSidebar: true
 showTitle: false
 ---
 
