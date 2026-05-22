@@ -9,11 +9,8 @@ showToc: true
 
 --- 
 
-
-
-
-## The Bee in the Bell
-#### *by The Fox*
+## The Bee in the Bell  
+#### *by The Fox*  
 
 Wherein the bell of  
 bronze  
@@ -38,27 +35,27 @@ humming swell.
 
 ---
 
-## The Hazelnut of Dreams
-#### *by The Fox*
-
-A hazelnut floats upon a stream—
-bobbing with
-buoyancy, and
-rocking as it
-dreams.
-While the enwrapping
-water lapping,
-polishes
-its sheen, and shines
-the silky shell,
-to a russet-golden gleam.
-Though it wonders
-where it goes
-(and brings wisdom
-where it wanders),
-its most sonorous secrets are those
-that only a hazelnut
-knows.
+## The Hazelnut of Dreams  
+#### *by The Fox*  
+  
+A hazelnut floats upon a stream—  
+bobbing with  
+buoyancy, and  
+rocking as it  
+dreams.  
+While the enwrapping  
+water lapping,  
+polishes  
+its sheen, and shines  
+the silky shell,  
+to a russet-golden gleam.  
+Though it wonders  
+where it goes  
+(and brings wisdom  
+where it wanders),  
+its most sonorous secrets are those  
+that only a hazelnut  
+knows.  
 
 ---
 
