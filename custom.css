@@ -1,15 +1,13 @@
-@font-face {
-  font-family: "Gembrot";
-  src: url("https://github.com/xochitlmegalopolis/foxandwren/raw/refs/heads/main/assets/GembrotFont.otf") format("opentype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
+
 
 body {
   background-color: #f6f3eeff;
 }
 
+/* Hide the generated page title/header in the main page area */
+main h1:first-of-type {
+  display: none !important;
+}
 
 .home-title {
   text-align: center;
