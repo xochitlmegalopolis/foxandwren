@@ -2,6 +2,7 @@
 title: "Fox and Wren Poetry" 
 showSidebar: true
 showNav: true
+showToc: true
 ---
 
 ![fox and wren](/assets/logo-small.png)
