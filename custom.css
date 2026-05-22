@@ -4,10 +4,12 @@ body {
   background-color: #f6f3eeff;
 }
 
-/* Hide the generated page title/header in the main page area */
+/* Hide the generated page title/header in the main page area 
+
 main h1:first-of-type {
   display: none !important;
 }
+*/
 
 .home-title {
   text-align: center;
