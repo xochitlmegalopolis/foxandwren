@@ -3,7 +3,7 @@
   "showSidebar": true,
   "showToc": true,
   "showNav": true,
-  "contentExclude": [
+  "contentHide": [
     "/assets"
   ]
 }
