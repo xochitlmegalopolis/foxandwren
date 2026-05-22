@@ -11,7 +11,7 @@ main h1:first-of-type {
 }
 */
 
-.home-title {
+main h1:first-of-type {
   text-align: center;
   font-family: "Gembrot" !important;
   font-size: 3rem;
