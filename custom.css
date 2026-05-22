@@ -24,3 +24,7 @@ main img[alt="fox and wren"] {
   height: auto;
   margin: 2rem auto;
 }
+
+footer {
+  display: none !important;
+}
