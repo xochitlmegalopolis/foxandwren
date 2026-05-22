@@ -11,7 +11,7 @@ showNav: true
 
 
 
-# The Bee in the Bell
+## The Bee in the Bell
 #### *by The Fox*
 
 Wherein the bell of  
@@ -37,7 +37,7 @@ humming swell.
 
 ---
 
-# The Hazelnut of Dreams
+## The Hazelnut of Dreams
 #### *by The Fox*
 
 A hazelnut floats upon a stream—
