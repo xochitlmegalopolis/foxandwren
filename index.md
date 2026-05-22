@@ -11,7 +11,7 @@ showToc: true
 
 ## The Bee in the Bell  
 #### *by The Fox*  
-<br />
+               
 Wherein the bell of  
 bronze  
 buzzes a bee who has  
@@ -21,7 +21,7 @@ cavern metal,
 he makes a song  
 akin to a billion  
 of his fuzzy fellows.
-<br />
+               
 Oh hear and see that inside 
 this belfry eroded---  
 ivy-coated  
@@ -37,20 +37,20 @@ humming swell.
 
 ## The Hazelnut of Dreams  
 #### *by The Fox*  
-  <br />
+                         
 A hazelnut floats upon a stream—  
 bobbing with  
 buoyancy, and  
 rocking as it  
 dreams.  
-<br />
+                        
 While the enwrapping  
 water lapping,  
 polishes  
 its sheen, and shines  
 the silky shell,  
 to a russet-golden gleam. 
-<br />
+                                    
 Though it wonders  
 where it goes  
 (and brings wisdom  
