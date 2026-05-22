@@ -61,6 +61,8 @@ knows.
 
 ---
 
+*All works published on this site remain the property of their respective authors.*
+
 
 
 
