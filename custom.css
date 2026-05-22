@@ -16,7 +16,7 @@ main h1:first-of-type {
   font-weight: 400;
 }
 
-.home-logo {
+main img[alt="fox and wren"] {
   display: block;
   width: min(80vw, 420px);
   height: auto;
