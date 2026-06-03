@@ -10,6 +10,14 @@ body {
   font-family: 'EB Garamond', serif !important;
 }
 
+body {
+  font-family: 'EB Garamond', serif !important;
+} 
+
+article is:(h1, h2, h3, h4, h5, h6) {
+  font-family: 'EB Garamond', serif !important;
+} 
+
 /* Hide the generated page title/header in the main page area 
 
 main h1:first-of-type {
