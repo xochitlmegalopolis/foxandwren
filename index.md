@@ -64,33 +64,33 @@ knows.
 ## Myadestes
 #### *by The Wren*  
 
-The thrush needs the forest for its melody 
-and the hills which build depth on its sound, opening 
-hidden entrances in the fabricky web 
-of spacetime — Indra's jewelled net — 
-leading simultaneously home and into a wide grove 
-where complex boundaries wind around centers of gravity 
-and we are reminded: we are not ever only our worst selves, 
-Flat and naked and empty; we, too, 
-can trace the lines of lyrics which unfold — 
-multidimensional — like fiddleheads or silk lanterns. 
-Sure, a supple heart 
-can be filtered through thin space 
-or a glass screen; behind veils 
-has charm always been 
-subjugated to modesty 
-and to at-times brutal compression 
-reducing rich, analog waves, 
-recorded on duendes' magnetic tape, 
-to stilted or clipped binary impressions. But: 
-the thrush needs the forest 
-the-thrush-needs-the-forest 
-the-thrush-needs-the-forest for its-trickling 
-trill-to-ring 
-trill-to-ring 
-out in echoes that resound, 
-coherently legible within 
-the polyphonic language of enkindled being. 
+The thrush needs the forest for its melody  
+and the hills which build depth on its sound, opening  
+hidden entrances in the fabricky web  
+of spacetime — Indra's jewelled net —  
+leading simultaneously home and into a wide grove  
+where complex boundaries wind around centers of gravity  
+and we are reminded: we are not ever only our worst selves,  
+Flat and naked and empty; we, too,  
+can trace the lines of lyrics which unfold —  
+multidimensional — like fiddleheads or silk lanterns.  
+Sure, a supple heart  
+can be filtered through thin space  
+or a glass screen; behind veils  
+has charm always been  
+subjugated to modesty  
+and to at-times brutal compression  
+reducing rich, analog waves,  
+recorded on duendes' magnetic tape,  
+to stilted or clipped binary impressions. But:  
+the thrush needs the forest  
+the-thrush-needs-the-forest  
+the-thrush-needs-the-forest for its-trickling  
+trill-to-ring  
+trill-to-ring  
+out in echoes that resound,  
+coherently legible within  
+the polyphonic language of enkindled being.  
 
 ---
 
