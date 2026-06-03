@@ -4,6 +4,12 @@ body {
   background-color: #f6f3eeff;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+body {
+  font-family: 'EB Garamond', serif !important;
+}
+
 /* Hide the generated page title/header in the main page area 
 
 main h1:first-of-type {
@@ -28,3 +34,5 @@ main img[alt="fox and wren"] {
 footer {
   display: none !important;
 }
+
+
