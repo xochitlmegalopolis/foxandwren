@@ -112,7 +112,7 @@ cherry reds and almandines,
 fluorescent hues of  
 faultless opaline.  
 
-Tiny voices mingle, 
+Tiny voices mingle,  
 tones of ice-clean pristine  
 bells a-twinkle.  
 
