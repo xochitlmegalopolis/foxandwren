@@ -119,7 +119,7 @@ bells a-twinkle.
 'We will show thee magic,' whisper the faeries wee,  
 'in cardamom bees and twisted keys, and in glass spun by silken symmetries.'  
 
-'But thou must understand, that all our secret lie:  
+'But thou must understand, that all our secrets lie:  
 in concentric circles  
 of silvered sand,  
 softly sea-foamed,  
