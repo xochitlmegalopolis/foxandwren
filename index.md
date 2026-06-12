@@ -94,6 +94,38 @@ the polyphonic language of enkindled being.
 
 ---
 
+## The Voices in the Garden
+#### *by The Fox* 
+
+Faeries flit 
+amongst my garden's flowers, 
+sniggering, 
+and giggling, 
+aglow by moonlit 
+showers. 
+
+Through the dark they 
+flicker, like 
+floating jewels 
+a-glimmer, 
+cherry reds and almandines, 
+fluorescent hues of 
+faultless opaline. 
+
+Tiny voices mingle, 
+tones of ice-clean pristine 
+bells a-twinkle. 
+
+'We will show thee magic,' whisper the faeries wee, 
+'in cardamom bees and twisted keys, and in glass spun by silken symmetries.' 
+
+'But thou must understand, that all our secret lie: 
+in concentric circles 
+of silvered sand, 
+softly sea-foamed, 
+on the shores of distant lands.' 
+
+---
 *All works published on this site are the property of their respective authors.*
 
 
