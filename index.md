@@ -97,12 +97,12 @@ the polyphonic language of enkindled being.
 ## The Voices in the Garden
 #### *by The Fox* 
 
-Faeries flit 
-amongst my garden's flowers, 
-sniggering, 
-and giggling, 
-aglow by moonlit 
-showers. 
+Faeries flit  
+amongst my garden's flowers,  
+sniggering,  
+and giggling,  
+aglow by moonlit  
+showers.  
 
 Through the dark they  
 flicker, like  
