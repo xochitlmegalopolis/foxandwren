@@ -136,7 +136,7 @@ such intricately-fashioned carapaces.
 In their place emptiness now resides, a void  
 and we bear witness only to the silent traces  
 of what once made sense within its own complex.  
-Now we collect -- not quite the creature, rather  
+Now we collect — not quite the creature, rather  
 what its frame suggests  
 a moment where the flesh-worn past is polished  
 by our mind's gleaming.  
