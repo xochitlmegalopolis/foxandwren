@@ -162,7 +162,6 @@
       width: 100%;
       padding: 4px 0;
       color: #3f3f3f;
-      font-weight: 500;
       line-height: 1.35;
     }
 
@@ -191,7 +190,6 @@
       margin: 0 0 10px;
       color: #4a4a4a;
       font-size: 15px;
-      font-weight: 600;
       line-height: 1.25;
       letter-spacing: 0.08em;
       text-transform: uppercase;
@@ -207,8 +205,18 @@
 
     .toc a:first-child {
       color: #3f3f3f;
-      font-weight: 600;
     }
+
+.site-title-link,
+.toc-title,
+.toc a {
+  font-weight: 400;
+}
+
+.site-title-link:hover,
+.toc a:hover {
+  font-weight: 700;
+}
 
     @media (max-width: 1460px) {
       :root {
