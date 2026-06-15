@@ -1,9 +1,0 @@
-{
-  "branding": false,
-  "showSidebar": true,
-  "showToc": true,
-  "showNav": true,
-  "contentHide": [
-    "/assets"
-  ]
-}
